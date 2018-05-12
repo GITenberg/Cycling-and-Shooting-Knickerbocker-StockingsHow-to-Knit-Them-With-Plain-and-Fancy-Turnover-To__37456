@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '38850'
     url: http://www.gutenberg.org/2009/agents/38850
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37456#Cycling-and-Shooting-Knickerbocker-StockingsHow-to-Knit-Them-With-Plain-and-Fancy-Turnover-To_
 gutenberg_bookshelf: Crafts
 gutenberg_issued: '2011-09-16'
 gutenberg_type: Text
