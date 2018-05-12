@@ -1,0 +1,28 @@
+_repo: Cycling-and-Shooting-Knickerbocker-StockingsHow-to-Knit-Them-With-Plain-and-Fancy-Turnover-To__37456
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ryder, H. P.
+    gutenberg_agent_id: '38850'
+    url: http://www.gutenberg.org/2009/agents/38850
+description: ''
+gutenberg_bookshelf: Crafts
+gutenberg_issued: '2011-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37456'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TT'
+- !lcsh 'Knitting -- Patterns'
+- !lcsh 'Socks'
+title: 'Cycling and Shooting Knickerbocker Stockings
+
+  How to Knit Them With Plain and Fancy Turnover Tops'
+url: http://www.gutenberg.org/ebooks/37456
